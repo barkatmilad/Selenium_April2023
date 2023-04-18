@@ -20,6 +20,7 @@ public class Instagram {
 		}
 //		close the browser
 		driver.quit();
+//		good to see you
 		
 	}
 
