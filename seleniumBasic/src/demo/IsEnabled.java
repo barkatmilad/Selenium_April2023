@@ -17,11 +17,11 @@ public class IsEnabled {
 		boolean disabledStatus = driver.findElement(By.id("isDisabled")).isEnabled();
 		
 		if(disabledStatus == true) {
-			System.out.println(" The Enabled Button is not clickable");
+			System.out.println(" The Enabled Button is clickable");
 		}
 		
 		else {
-			System.out.println(" The enabled button is click able");
+			System.out.println(" The enabled button is not click able");
 		}
 //	5) close the browser 
 		driver.quit();

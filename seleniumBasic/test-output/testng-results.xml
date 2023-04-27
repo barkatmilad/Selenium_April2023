@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T00:00:00 EDT" name="Default suite" finished-at="2023-04-27T00:00:07 EDT" duration-ms="7671">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T00:00:00 EDT" name="Default test" finished-at="2023-04-27T00:00:07 EDT" duration-ms="7671">
+      <class name="demo.AssertFalse">
+        <test-method is-config="true" signature="luachApplication()[pri:0, instance:demo.AssertFalse@479d31f3]" started-at="2023-04-27T00:00:00 EDT" name="luachApplication" finished-at="2023-04-27T00:00:07 EDT" duration-ms="7345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- luachApplication -->
+        <test-method signature="VerifyEnableButton()[pri:0, instance:demo.AssertFalse@479d31f3]" started-at="2023-04-27T00:00:07 EDT" name="VerifyEnableButton" finished-at="2023-04-27T00:00:07 EDT" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEnableButton -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:demo.AssertFalse@479d31f3]" started-at="2023-04-27T00:00:07 EDT" name="closeBrowser" finished-at="2023-04-27T00:00:07 EDT" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- demo.AssertFalse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
